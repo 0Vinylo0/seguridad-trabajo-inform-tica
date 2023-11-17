@@ -1,5 +1,5 @@
 # Seguridad de la Informatica
-![portada](img/OIG.jpeg)
+#### ![portada](img/OIG.jpeg)
 ## Indice
 
 1. Riesgos laborales informaticos
