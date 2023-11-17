@@ -1,5 +1,5 @@
 # Seguridad de la Informatica
-![portada](img/seguridad%20informática%20y%20cómo%20implementarla.webp)
+![portada](img/OIG.jpeg)
 ## Indice
 
 1. Riesgos laborales informaticos
