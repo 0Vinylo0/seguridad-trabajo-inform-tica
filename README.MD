@@ -13,7 +13,7 @@
 
 ## Autores
 
-- Inés Calvo (http://github.com/Inesita17)
+- `Inés Calvo` (http://github.com/Inesita17)
 
 - Beatriz Lama (https://github.com/BeaLama)
 
