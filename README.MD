@@ -9,7 +9,7 @@
 
 ## Referencia
 
-
+Con ayuda de: `ChatGPT`
 
 ## Autores
 
