@@ -1,6 +1,6 @@
 # Prevención de Riesgos Laborales en Informática:
 
- Los principales riesgos laborales que experimentan los trabajadores informáticos son:
+## Los principales riesgos laborales que experimentan los trabajadores informáticos son:
 
    - Fatiga visual o muscular
    - Golpes o caídas
