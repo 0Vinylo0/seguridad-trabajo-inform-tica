@@ -22,4 +22,4 @@
 
 La prevención de riesgos laborales en informática busca garantizar un entorno seguro, promoviendo la salud y el bienestar de los empleados.
 
-![img_prevencion](img/Captura_desde_2023-11-21_08-57-29.png)
+ ![img_prevencion](img/Captura_desde_2023-11-21_08-57-29.png)
