@@ -21,3 +21,5 @@
   -  Cumplimiento Normativo: Asegurarse de cumplir con regulaciones y normativas de seguridad laboral.
 
 La prevención de riesgos laborales en informática busca garantizar un entorno seguro, promoviendo la salud y el bienestar de los empleados.
+
+![portada](img/Captura_desde_2023-11-17_12-35-06.png)
