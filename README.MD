@@ -3,9 +3,9 @@
 ## Indice
 
 1. Riesgos laborales informaticos
-    - [`Riesgos Laborales`](contenido/contaminacion.md)
+    - [`Riesgos Laborales`](contenido/prevencion_riesgos.md)
 2. Prevención de riesgos informaticos
-    - [`Prevencion Riesgos`](contenido/residuos.md)
+    - [`Prevencion Riesgos`](contenido/riesgos_laborales.md)
 
 ## Referencia
 
