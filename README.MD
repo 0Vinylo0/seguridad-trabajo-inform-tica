@@ -5,7 +5,7 @@
 1. Riesgos laborales informaticos
     - [`Riesgos Laborales`](contenido/riesgos_laborales1.md)
 2. Prevención de riesgos informaticos
-    - [`Prevencion Riesgos`](contenido/riesgos_laborales.md)
+    - [`Prevencion Riesgos`](contenido/prevencion_riesgos.md)
 
 ## Referencia
 
