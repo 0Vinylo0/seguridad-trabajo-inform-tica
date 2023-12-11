@@ -10,7 +10,7 @@
 ## Referencia
 
 - Con ayuda de: `ChatGPT` 
-- [Gracias a `Página UNIR`](https://www.unir.net/ingenieria/revista/riesgos-laborales-informatica/)
+- Gracias a [`Página UNIR`](https://www.unir.net/ingenieria/revista/riesgos-laborales-informatica/)
 
 ## Autores
 
